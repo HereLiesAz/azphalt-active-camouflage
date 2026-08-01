@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Fills the layer with the inpainted background behind it, blurred and just short of opaque, so the subject reads as cloaked rather than erased.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
